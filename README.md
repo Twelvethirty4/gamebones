@@ -1,1 +1,3 @@
-just click 'my project (10).zip' i didnt name it, "gaem.zip" is the most recent
+download the most recent zip, and unzip it to play, once you unzip it
+just click 'my project (10).exe' i didnt name it,
+"db-b2.zip" is the most recent
