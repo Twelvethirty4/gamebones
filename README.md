@@ -1,3 +1,3 @@
 download the most recent zip, and unzip it to play, once you unzip it
 just click 'my project (10).exe' i didnt name it,
-"db-b2.zip" is the most recent
+"db-b2.zip" is the most recent. its nextbot game, a nextbot of a glizzy.
